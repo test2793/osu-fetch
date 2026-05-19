@@ -1,7 +1,7 @@
 # ☁️ 4RС3UZ / osu-fetch ☁️
 
 <div align="center">
-  <img src="32945.png" alt="osu-fetch banner" width="100%">
+  <img src="https://e.radikal.host/2026/05/19/329491c61ff3e7fa4f50d.png" alt="osu-fetch banner" width="100%">
   
   <p align="center">
     <strong>A sleek, CLI fetch tool for tracking osu! player statistics right in your terminal.</strong>
