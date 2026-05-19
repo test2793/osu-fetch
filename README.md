@@ -50,7 +50,7 @@ When you launch the tool for the first time, it will ask for your **osu! usernam
 Follow this beautifully hand-drawn guide to get your key in less than a minute:
 
 <div align="center">
-  <img src="32971.png" alt="How to get API key" width="80%">
+  <img src="https://e.radikal.host/2026/05/19/32971.png" alt="How to get API key" width="80%">
 </div>
 
 ---
