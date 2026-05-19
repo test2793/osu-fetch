@@ -65,5 +65,5 @@ Follow this beautifully hand-drawn guide to get your key in less than a minute:
 ---
 
 <div align="center">
-  <sub>Made with ♥ by 4RC3UZ. Visuals inspired by OMORI.</sub>
+  <sub>Made with ♥ by 4rc3uz.</sub>
 </div>
