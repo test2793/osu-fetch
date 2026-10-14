@@ -57,7 +57,7 @@ Follow this beautifully hand-drawn guide to get your key in less than a minute:
 
 ## 🛠️ To-Do / Future Updates
 
-- [ ] Add AUR (Arch User Repository) package support.
+- [!] Add AUR (Arch User Repository) package support.
 - [ ] Implement game mode selection (Taiko, Catch, Mania).
 - [ ] Add recent plays (scores) display.
 - [ ] Create an OMORI-styled yellow/black custom color palette.
